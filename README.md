@@ -1,4 +1,4 @@
 # FOUCNet
 This repo is the official implementation of ["FOUCNet: a Network Focusing On Unconventional Crack Detection"] (Submitted to Engineering Failure Analysis)  
-
-The part code of FOUCNet and Unconventional Crack dataset will be published soon.
+![Sample gallery of U-CRACK](https://github.com/U-CRACK/FOUCNet/blob/main/Sample%20gallery%20of%20U-CRACK.bmp)
+The part code of FOUCNet will be published soon.
